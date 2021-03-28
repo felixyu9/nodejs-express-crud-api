@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-crud-api",
+  "author": "felix",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "2.874.0",
+    "express": "4.17.1"
+  }
+}
